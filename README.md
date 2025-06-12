@@ -38,19 +38,19 @@ Companies that implement DevOps typically experience faster software delivery, i
       <h3> Automation</h3><p>Automating repetitive tasks like testing, building, deploying, and monitoring to reduce manual errors and increase speed and consistency.</p>
     </li>
     <li>
-      <h3></h3><p></p>
+      <h3> Continuous Integration and Continuous Delivery (CI/CD)</h3><p>Frequently integrating code changes and maintaining the ability to deploy software quickly and reliably at any time.</p>
     </li>
     <li>
-      <h3></h3><p></p>
+      <h3>Infrastructure as Code (IaC)</h3><p>Managing and provisioning infrastructure through code rather than manual processes, making it version-controlled and reproducible.</p>
     </li>
     <li>
-      <h3></h3><p></p>
+      <h3> Monitoring and Feedback</h3><p>Continuously monitoring applications and infrastructure to gather real-time feedback and quickly identify and resolve issues.</p>
     </li>
     <li>
-      <h3></h3><p></p>
+      <h3> Iterative Improvement</h3><p>Embracing a culture of continuous learning and improvement, making small, frequent changes rather than large, infrequent updates.</p>
     </li>
     <li>
-      <h3></h3><p></p>
+      <h3>Shared Responsibility</h3><p>Both development and operations teams take ownership of the entire application lifecycle, from planning to production support.</p>
     </li>
     <li>
       <h3></h3><p></p>
