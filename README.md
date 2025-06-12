@@ -51,28 +51,11 @@ Companies that implement DevOps typically experience faster software delivery, i
     </li>
     <li>
       <h3>Shared Responsibility</h3><p>Both development and operations teams take ownership of the entire application lifecycle, from planning to production support.</p>
-    </li>
-    <li>
-      <h3></h3><p></p>
-    </li>
-    <li>
-      <h3></h3><p></p>
-    </li>
-  </ol>
-1. Collaboration and Communication
-Breaking down silos between development and operations teams. Everyone works together with shared goals and responsibilities throughout the software lifecycle.
-2. Automation
-Automating repetitive tasks like testing, building, deploying, and monitoring to reduce manual errors and increase speed and consistency.
-3. Continuous Integration and Continuous Delivery (CI/CD)
-Frequently integrating code changes and maintaining the ability to deploy software quickly and reliably at any time.
-4. Infrastructure as Code (IaC)
-Managing and provisioning infrastructure through code rather than manual processes, making it version-controlled and reproducible.
-5. Monitoring and Feedback
-Continuously monitoring applications and infrastructure to gather real-time feedback and quickly identify and resolve issues.
-6. Iterative Improvement
-Embracing a culture of continuous learning and improvement, making small, frequent changes rather than large, infrequent updates.
-7. Shared Responsibility
-Both development and operations teams take ownership of the entire application lifecycle, from planning to production support.
-8. Customer-Centric Approach
-Focusing on delivering value to end users quickly and efficiently while maintaining high quality and reliability.
-These principles work together to create faster, more reliable software delivery while improving team collaboration and reducing operational risks.</p>
+      
+      <h2>DevOps Lifecycle Stages</h2>
+      <ol>
+      <li>
+          <h3> Plan</h3><p>Define project requirements, create roadmaps, and establish development goals. Teams collaborate to prioritize features and plan sprints or iterations.
+Tools: Jira, Azure DevOps, Trello, Asana</p>
+      </li>
+      </ol>
