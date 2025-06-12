@@ -28,7 +28,7 @@ Monitoring and Feedback: Constant monitoring provides real-time insights into sy
 Benefits for Organizations
 Companies that implement DevOps typically experience faster software delivery, improved quality, better customer satisfaction, and increased operational efficiency.</p>
 <h2>Briefly Explain the core Principles</h2>
-<h4> Core Principles of DevOps </h4>
+<p> Core Principles of DevOps 
   <ol>
     <li>
       <h3>Collaboration and Communication</h3><p>Breaking down silos between development and operations teams. Everyone works together with shared goals and responsibilities throughout the software lifecycle.</p>
