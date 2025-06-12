@@ -31,8 +31,8 @@ Companies that implement DevOps typically experience faster software delivery, i
 <p> Core Principles of DevOps 
   <ol>
     <li>
-      <h3>Collaboration and Communication</h3><p>Breaking down silos between development and operations teams. Everyone works together with shared goals and responsibilities throughout the software lifecycle.</p>
-
+  <h3>Collaboration and Communication</h3>
+      <p>Breaking down silos between development and operations teams. Everyone works together with shared goals and responsibilities throughout the software lifecycle.</p>
     </li>
     <li>
       <h3> Automation</h3><p>Automating repetitive tasks like testing, building, deploying, and monitoring to reduce manual errors and increase speed and consistency.</p>
