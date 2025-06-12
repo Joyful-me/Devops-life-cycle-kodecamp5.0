@@ -60,24 +60,31 @@ Companies that implement DevOps typically experience faster software delivery, i
 Tools: Jira, Azure DevOps, Trello, Asana</p>
     </li>
     <li>
-      <h3></h3><p></p>
+      <h3>Development</h3><p>Write application code, implement features, and manage version control. Developers collaborate on code creation and maintain code quality standards.
+Tools: Git, GitHub, GitLab, Visual Studio Code, IntelliJ</p>
     </li>
     <li>
-      <h3></h3><p></p>
+      <h3>Build</h3><p>Compile source code into executable applications, manage dependencies, and create deployable packages or containers.
+Tools: Maven, Gradle, npm, Docker, Jenkins</p>
     </li>
     <li>
-      <h3></h3><p></p>
+      <h3>Testing</h3><p>Execute automated testing including unit tests, integration tests, security scans, and performance testing to ensure code quality and reliability.
+Tools: Selenium, JUnit, TestNG, SonarQube, OWASP ZAP</p>
     </li>
     <li>
-      <h3></h3><p></p>
+      <h3>Release</h3><p>Prepare tested applications for deployment, manage release configurations, and coordinate deployment schedules across environments.
+Tools: Jenkins, GitLab CI/CD, Azure Pipelines, TeamCity</p>
     </li>
     <li>
-      <h3></h3><p></p>
+      <h3>Deployment</h3><p>Automatically deploy applications to target environments (staging, production) using consistent, repeatable deployment processes.
+Tools: Ansible, Terraform, Kubernetes, AWS CodeDeploy, Octopus Deploy</p>
     </li>
     <li>
-      <h3></h3><p></p>
+      <h3>Operation</h3><p>Manage live production systems, handle infrastructure maintenance, user access management, and ensure system availability.
+Tools: Puppet, Chef, Docker Swarm, AWS EC2, Azure VMs</p>
     </li>
     <li>
-      <h3></h3><p></p>
+      <h3>Montoring</h3><p>Continuously track application performance, system health, user behavior, and collect feedback for improvement insights.
+Tools: Prometheus, Grafana, ELK Stack, New Relic, Datadog</p>
     </li>
   </ol>
