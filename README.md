@@ -51,12 +51,12 @@ Companies that implement DevOps typically experience faster software delivery, i
     </li>
     <li>
       <h3>Shared Responsibility</h3><p>Both development and operations teams take ownership of the entire application lifecycle, from planning to production support.</p>
-<h2></h2>
-  <ol>
-    <li>
+<h1>Devops Lifecycle Stages</h1>
+<ol>
+  <li>
       <h3>Planning</h3><p>Define project requirements, create roadmaps, and establish development goals. Teams collaborate to prioritize features and plan sprints or iterations.
 Tools: Jira, Azure DevOps, Trello, Asana</p>
-        </li>
+  </li>
          <li>
           <h3></h3><p></p>
         </li>
